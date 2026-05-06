@@ -9,9 +9,10 @@ Animal da hibernate, such as arctic squirrel and thirteen stripe hamster, hibern
 a few hours before going back to sleep. Therefore, the question is, how does sleep look like during this period? Does sleep change in the begnning vs end of hibernation? Studies
 suggest that they have more NREM sleep. Does the sleep also have memory consolidation role or just cleaning purpose?
 ## Research Question(s)
-- [ ] Question 1:  What does sleep look like during this period? 
-- [ ] Question 2:  Does sleep change in the begnning vs end of hibernation?
-- [ ] Question 3: Does the sleep also have memory consolidation role or just cleaning purpose?
+- [ ] Question 1: What does sleep look like during this period? 
+- [ ] Question 2: Does sleep change in the begnning vs end of hibernation?
+- [ ] Question 3: Does sleep also have memory consolidation role or just cleaning purpose?
+- [ ] Question 4: Does sleep after period of hybernation look like sleep deprivation? -> evidence suggest yes?! -> papers
 
 ## Motivation & Significance
 Sleep is such an universal state, that even during hibernation, a state of low metabolism, it is essential.
